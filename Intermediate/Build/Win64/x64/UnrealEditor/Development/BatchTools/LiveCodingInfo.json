@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.BatchTools.cpp.obj": [
-			"PerModuleInline.gen.cpp.obj",
-			"BatchToolsModule.cpp.obj"
-		]
-	}
-}
