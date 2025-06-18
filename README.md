@@ -275,7 +275,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Wiki:** [GitHub Wiki](https://github.com/RobsonMaciel/BatchTools/wiki)
-- **Issues:** [GitHub Issues](https://github.com/RobsonMaciel/BatchTools/issues))
+- **Issues:** [GitHub Issues](https://github.com/RobsonMaciel/BatchTools/issues)
 - **Author:** [Robson Maciel](https://github.com/RobsonMaciel)
 ---
 
